@@ -3,3 +3,4 @@ Fixed another bug
 found another bug and fixed
 fourth bug fixed
 5th bug find and fixed
+Another fix message for pink mode
